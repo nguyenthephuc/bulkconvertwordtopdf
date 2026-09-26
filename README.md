@@ -17,9 +17,9 @@ Tool dưới đây phục vụ cho cách 3 mà không phải mở Word, cũng kh
 - Cài Ghostscript
 - Cài LibreOffice
 - Cây thư mục
- /
- |-Word
- |-Convert_Word_to_PDF.bat
+/
+|-Word
+|-Convert_Word_to_PDF.bat
 
 ==Cách sử dụng==
 - Copy các file .doc, .docx vào thư mục Word
