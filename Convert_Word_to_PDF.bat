@@ -19,7 +19,8 @@ rem --- Kiem tra LibreOffice ---
 if not exist %SOFFICE% (
     echo [LOI] Khong tim thay LibreOffice tai:
     echo       %SOFFICE%
-    echo Vui long kiem tra lai duong dan cai dat.
+    echo Vui long cai LibreOffice tai: https://www.libreoffice.org/download/
+    echo hoac chinh lai duong dan bien SOFFICE cho dung phien ban da cai.
     pause
     exit /b 1
 )
