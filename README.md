@@ -26,4 +26,4 @@ Tool dưới đây phục vụ cho cách 3 mà không phải mở Word, cũng kh
 ==Cách sử dụng==
 - Copy các file .doc, .docx vào thư mục <code>Word</code>
 - Chạy file <code>Convert_Word_to_PDF.bat</code>
-- Nếu thành công sẽ có file Merged.pdf trong thư mục gốc. Đổi tên file và nộp.
+- Nếu thành công sẽ có file <code>Merged.pdf</code> trong thư mục gốc. Đổi tên file và nộp.
