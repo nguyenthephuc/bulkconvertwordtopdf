@@ -12,6 +12,7 @@ Tool dưới đây phục vụ cho cách 3 mà không phải mở Word, cũng kh
 ==Giải pháp==
 - Dùng LibreOffice để convert word to pdf
 - Dùng GS để gộp các file pdf thành 1 file pdf
+- Viết một file <code>Convert_Word_to_PDF.bat</code> để tự động hoá 2 bước trên.
 
 ==Cài đặt==
 - Cài Ghostscript (Phần mềm free). Cài xong copy đường dẫn vào trong file <code>Convert_Word_to_PDF.bat</code>
