@@ -2,7 +2,7 @@
 - Soạn giáo án theo bài học, mỗi bài học một file word (fileBH).
 - Nộp giáo án theo tháng, mỗi tháng một file word (pdf) gồm nhiều fileBH gộp lại.
 
-Cách làm thông thường
+Các cách nộp giáo án
 - Cách 1: Copy/insert nhiều fileBH thành 1 file word rồi nộp. Hạn chế: Phải mở Word.
 - Cách 2: Tải các fileBH lên các công cụ online để gộp thành 1 file pdf, rồi tải xuống và nộp. Hạn chế: Không riêng tư.
 - Cách 3: Lưu mỗi fileBH thành 1 file PDF rồi dùng tool nào đó để gộp thành 1 file pdf và nộp.
