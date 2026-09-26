@@ -14,12 +14,14 @@ Tool dưới đây phục vụ cho cách 3 mà không phải mở Word, cũng kh
 - Dùng GS để gộp các file pdf thành 1 file pdf
 
 ==Cài đặt==
-- Cài Ghostscript
-- Cài LibreOffice
+- Cài Ghostscript. Cài xong copy đường dẫn vào trong file <code>Convert_Word_to_PDF.bat</code>
+- Cài LibreOffice. Cài xong copy đường dẫn vào trong file <code>Convert_Word_to_PDF.bat</code>
 - Cây thư mục
+<pre>
 /
 |-Word
 |-Convert_Word_to_PDF.bat
+</pre>
 
 ==Cách sử dụng==
 - Copy các file .doc, .docx vào thư mục Word
